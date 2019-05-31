@@ -1,0 +1,23 @@
+{
+  "name": "capeasy-binancechain",
+  "version": "1.0.0",
+  "description": "CAPeasy - The easiest way to post and manage assets on BinanceChain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codablecapital/capeasy-binancechain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codablecapital/capeasy-binancechain/issues"
+  },
+  "homepage": "https://github.com/codablecapital/capeasy-binancechain#readme",
+  "dependencies": {
+    "@binance-chain/javascript-sdk": "^2.13.4",
+    "claudia-api-builder": "^4.1.2"
+  }
+}
